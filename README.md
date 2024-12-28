@@ -2,10 +2,10 @@
 # nosql-challenge
 
 
-## About
+## About:
 
 
-### Dependencies
+### Dependencies to import:
     1. from pymongo import MongoClient
     2. import pandas as pd
     3. from pprint import pprint
@@ -13,4 +13,7 @@
     5. import re
 
 
-#### How to run
+#### How to run:
+
+
+#### Sources:
