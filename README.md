@@ -15,7 +15,7 @@ This project is part of the Module 12 Challenge focused on NoSQL databases, spec
 
 #### How to run:
     1. Install dependancies
-    2. CD into nosql-challenge/Starter_Code
+    2. CD into nosql-challenge
     3. Open a git Bash terminal here and run the following. ("mongoimport --type json -d uk_food -c establishments --drop --jsonArray Resources/establishments.json")
     4. Run all cells in the NoSQL_setup_starter.ipynb
     5. Run all cells in the NoSQL_analysis_starter.ipynb
